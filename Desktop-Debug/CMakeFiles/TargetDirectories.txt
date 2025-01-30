@@ -1,0 +1,7 @@
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/translations.dir
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/translate_my_ru.dir
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/Chat.dir
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/Chat_autogen_timestamp_deps.dir
+C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Debug/CMakeFiles/Chat_autogen.dir
