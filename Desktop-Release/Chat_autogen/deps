@@ -1,0 +1,257 @@
+Chat_autogen/timestamp: \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCCompilerABI.c \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeNinjaFindMake.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeParseArguments.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeSystem.cmake.in \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX-CXXImportStd.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qalgorithms.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qarraydata.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qatomic.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qbasicatomic.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qbytearray.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qbytearraylist.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qchar.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qcompilerdetection.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qconfig.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qcontainerfwd.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qcontainertools_impl.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qdatastream.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qflags.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qglobal.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qglobalstatic.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qhash.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qhashfunctions.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qiodevice.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qiterator.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qline.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qlist.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qlogging.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qmargins.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qmetatype.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qmutex.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qnamespace.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qnumeric.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qobject.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qobject_impl.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qobjectdefs.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qobjectdefs_impl.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qpair.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qpoint.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qprocessordetection.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qrect.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qrefcount.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qregexp.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qscopedpointer.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qshareddata.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qsharedpointer.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qsharedpointer_impl.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qsize.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qstring.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qstringalgorithms.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qstringlist.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qstringliteral.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qstringmatcher.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qstringview.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qsysinfo.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qsystemdetection.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qtcore-config.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qtypeinfo.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qvarlengtharray.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qvector.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtCore/qversiontagging.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qbrush.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qcolor.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qcursor.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qfont.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qfontinfo.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qfontmetrics.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qicon.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qimage.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qkeysequence.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qmatrix.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qpaintdevice.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qpalette.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qpixelformat.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qpixmap.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qpolygon.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qregion.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qrgb.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qrgba64.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qtgui-config.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qtguiglobal.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qtransform.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qwindowdefs.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtGui/qwindowdefs_win.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/QDialog \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/QMainWindow \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/QWidget \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qdialog.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qmainwindow.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qsizepolicy.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qtabwidget.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
+	C:/Qt/5.15.0/msvc2019_64/include/QtWidgets/qwidget.h \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5/Qt5Config.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
+	C:/Qt/5.15.0/msvc2019_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/CMakeLists.txt \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Release/.qtc/package-manager/auto-setup.cmake \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Release/CMakeFiles/3.30.6/CMakeCCompiler.cmake \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Release/CMakeFiles/3.30.6/CMakeCXXCompiler.cmake \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Release/CMakeFiles/3.30.6/CMakeRCCompiler.cmake \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/build/Desktop-Release/CMakeFiles/3.30.6/CMakeSystem.cmake \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/CommandLineInterface.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/CommandLineInterface.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Database.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Database.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Message.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Message.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Parsing.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Parsing.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/Test.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/User.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/User.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/loginform.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/loginform.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/mainwindow.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/mainwindow.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/registrationform.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/registrationform.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/sha1.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/sha1.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/startscreen.cpp \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/startscreen.h \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/loginform.ui \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/mainwindow.ui \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/registrationform.ui \
+	C:/Qt/projects/CPLUS-UI-ChatCPPTest/sources/startscreen.ui \
+	C:/Program\ Files/CMake/bin/cmake.exe
