@@ -1,0 +1,7 @@
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/translations.dir
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/translate_my_ru.dir
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/Chat_PRO.dir
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/edit_cache.dir
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/Chat_PRO_autogen_timestamp_deps.dir
+C:/Qt/projects/Pulsar_chat2/build/debug/CMakeFiles/Chat_PRO_autogen.dir
